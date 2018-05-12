@@ -1,0 +1,28 @@
+_repo: Jessica-the-Heiress_30074
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raymond, Evelyn
+    alias: Raymond, Evelyn Hunt
+    birthdate: 1843
+    deathdate: 1910
+    gutenberg_agent_id: '31472'
+    url: http://www.gutenberg.org/2009/agents/31472
+description: ''
+gutenberg_issued: '2009-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Jessica, the Heiress
+url: http://www.gutenberg.org/ebooks/30074
